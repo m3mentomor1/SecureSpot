@@ -5,7 +5,7 @@
 ### 🧐 I. Overview
 ![SecureSpot (1)](https://github.com/m3mentomor1/SecureSpot/assets/95956735/2903440e-4a60-406f-93e8-d17ff33ed7a8)
 
-This is a UI/UX design for a project called **SecureSpot**, a mobile app that allows users to find and reserve lockers near parking lots & parking spaces.
+This repo contains UI/UX design mockups for a project called **SecureSpot**, a mobile app that allows users to find and reserve lockers near parking lots & parking spaces.
 <br><br>
 ##
 
@@ -31,4 +31,6 @@ This is a UI/UX design for a project called **SecureSpot**, a mobile app that al
 ![Locker Reservation](https://github.com/m3mentomor1/SecureSpot/assets/95956735/7edccdb7-8b96-4c16-b2c8-49c4d9be21db)
 <br><br><br>
 
-Figma Link: https://www.figma.com/design/tfVOU4P6VRIDpEspwFqbCZ/SecureSpot?node-id=54795-26433&t=OLlDv2swsAImvsWx-1
+Figma Link/s: 
+- [Design View](https://www.figma.com/design/tfVOU4P6VRIDpEspwFqbCZ/SecureSpot?node-id=54795-26433&t=OLlDv2swsAImvsWx-1)
+- [Prototype View (Screen & Button Navigation)](https://www.figma.com/proto/tfVOU4P6VRIDpEspwFqbCZ/SecureSpot?node-id=54795-29787&t=uRmdXuuZ1cjVYGeO-1&scaling=min-zoom&content-scaling=fixed&page-id=54795%3A26433&starting-point-node-id=54795%3A29787)
