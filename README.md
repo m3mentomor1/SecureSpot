@@ -1,3 +1,3 @@
 # SecureSpot
 
-Figma Link: https://www.figma.com/design/VpQuopIcqhtUd19rrTSVLw/SecureSpot?m=dev&node-id=0-1&t=hdGapJXI6DgwIxjV-1
+Figma Link: https://www.figma.com/design/tfVOU4P6VRIDpEspwFqbCZ/SecureSpot?node-id=54795-26433&t=OLlDv2swsAImvsWx-1
