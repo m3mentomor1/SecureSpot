@@ -5,7 +5,7 @@
 ### 🧐 I. Overview
 ![SecureSpot (1)](https://github.com/m3mentomor1/SecureSpot/assets/95956735/2903440e-4a60-406f-93e8-d17ff33ed7a8)
 
-This repo contains UI/UX design mockups for a project called **SecureSpot**, a mobile app that allows users to find and reserve lockers near parking lots & parking spaces.
+This repo contains design mockups for a project called **SecureSpot**, a mobile app that allows users to find and reserve lockers near parking lots & parking spaces.
 <br><br>
 ##
 
