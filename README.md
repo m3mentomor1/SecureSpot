@@ -9,7 +9,7 @@ This is a UI/UX design for a project called **SecureSpot**, a mobile app that al
 <br><br>
 ##
 
-### 🗂️ II. Preview
+### 👀 II. Preview
 
 #### ✅ Splash Screen
 
