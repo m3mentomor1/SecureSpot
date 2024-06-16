@@ -25,6 +25,6 @@ This is a UI/UX design for a project called **SecureSpot**, a mobile app that al
 
 #### ✅ Locker Reservation
 
-![Locker Reservation](https://github.com/m3mentomor1/SecureSpot/assets/95956735/a1315b0c-cdc4-47d2-9815-6d5a57b8a218)
+![Locker Reservation](https://github.com/m3mentomor1/SecureSpot/assets/95956735/7edccdb7-8b96-4c16-b2c8-49c4d9be21db)
 
 Figma Link: https://www.figma.com/design/tfVOU4P6VRIDpEspwFqbCZ/SecureSpot?node-id=54795-26433&t=OLlDv2swsAImvsWx-1
