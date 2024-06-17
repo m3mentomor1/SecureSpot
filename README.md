@@ -40,3 +40,5 @@ Figma Link/s:
 ##
 
 ### 💻 III. Tech Stack
+
+``Figma`` ``Canva`` ``Photopea``
