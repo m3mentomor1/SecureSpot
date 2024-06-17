@@ -13,24 +13,9 @@ This repo contains design mockups for a project called **SecureSpot**, a mobile 
 
 ### 👀 II. Preview
 
-#### ✅ Splash Screen
+#### ✅ User Sign in
 
-![Splash Screen](https://github.com/m3mentomor1/SecureSpot/assets/95956735/2904a83c-0172-4b97-97f9-1a82628de1ce)
-<br><br><br>
-
-#### ✅ Authentication
-
-![Authentication](https://github.com/m3mentomor1/SecureSpot/assets/95956735/c460998d-8ace-4476-98a2-994dfb2532b6)
-<br><br><br>
-
-#### ✅ Dashboard/Home Screen
-
-![Dashboard-Home Screen](https://github.com/m3mentomor1/SecureSpot/assets/95956735/abd7aaab-0ee5-49f9-baab-2cbff0522af5)
-<br><br><br>
-
-#### ✅ Locker Reservation
-
-![Locker Reservation](https://github.com/m3mentomor1/SecureSpot/assets/95956735/7edccdb7-8b96-4c16-b2c8-49c4d9be21db)
+![User Sign in](https://github.com/m3mentomor1/SecureSpot-Design/assets/95956735/eb395755-ae4b-4e66-8d2f-234780002ea2)
 <br><br><br>
 
 Figma Link/s: 
