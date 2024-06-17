@@ -41,4 +41,4 @@ Figma Link/s:
 
 ### 💻 III. Tech Stack
 
-``Figma`` ``Canva`` ``Photopea`` ``Material Design``
+``Figma`` ``Canva`` ``Photopea`` ``Material Design 3``
