@@ -15,7 +15,7 @@ This repo contains design mockups for a project called **SecureSpot**, a mobile 
 
 #### ✅ User Sign in
 
-![User Sign in](https://github.com/m3mentomor1/SecureSpot-Design/assets/95956735/03927938-8764-4048-b798-ae2ddc03bab0)
+![User Sign in](https://github.com/m3mentomor1/SecureSpot-Design/assets/95956735/80042f28-2a0b-45b7-903a-a146ca73029c)
 <br><br><br>
 
 Figma Link/s: 
