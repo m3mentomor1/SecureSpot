@@ -36,3 +36,7 @@ This repo contains design mockups for a project called **SecureSpot**, a mobile 
 Figma Link/s: 
 - [Design View](https://www.figma.com/design/tfVOU4P6VRIDpEspwFqbCZ/SecureSpot?node-id=54795-26433&t=OLlDv2swsAImvsWx-1)
 - [Prototype View (Screen & Button Navigation)](https://www.figma.com/proto/tfVOU4P6VRIDpEspwFqbCZ/SecureSpot?node-id=54795-29787&t=uRmdXuuZ1cjVYGeO-1&scaling=min-zoom&content-scaling=fixed&page-id=54795%3A26433&starting-point-node-id=54795%3A29787)
+<br><br>
+##
+
+### 💻 III. Tech Stack
