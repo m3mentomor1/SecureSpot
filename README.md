@@ -10,7 +10,8 @@
 This repo contains design mockups for a project called **SecureSpot**, a mobile app that allows users to find and reserve lockers near parking lots & parking spaces.
 
 This project is for an overnight rush commission requested by a client.
-(*Note This project has been authorized by the client for publication in the public domain. No confidential information or proprietary data is included in this repo.*)
+
+(***Note** This project has been authorized by the client for publication in the public domain. No confidential information or proprietary data is included in this repo.*)
 <br><br>
 ##
 
