@@ -11,7 +11,7 @@ This repo contains design mockups for a project called **SecureSpot**, a mobile 
 
 This project is for an overnight rush commission requested by a client.
 
-(***Note:** This project has been authorized by the client for publication in the public domain. No confidential information or proprietary data is included in this repo.*)
+(***Note:** No confidential information or proprietary data is included in this repo. All materials in this project has been authorized by the client for publication in the public domain.*)
 <br><br>
 ##
 
