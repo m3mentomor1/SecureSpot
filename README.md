@@ -22,7 +22,7 @@ This repo contains design mockups for a project called **SecureSpot**, a mobile 
 
 #### ✅ Locker Reservation
 
-
+![Locker Reservation](https://github.com/m3mentomor1/SecureSpot-Design/assets/95956735/e131c1b5-63a4-4155-83bb-860e4ccb03c6)
 <br><br><br>
 
 Figma Link/s: 
