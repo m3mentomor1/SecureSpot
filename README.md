@@ -31,6 +31,6 @@ Figma Link/s:
 <br><br>
 ##
 
-### 💻 III. Tech Stack
+### 💻 III. Tools Used
 
 ``Figma`` ``Canva`` ``Photopea`` ``Material Design 3``
